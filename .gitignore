@@ -1,0 +1,75 @@
+# .NET Core
+.vs
+.vscode
+.idea
+.DS_Store
+bin/
+obj/
+# User secrets
+secrets/
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# ASP.NET Core
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
+appsettings.*.json
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# JetBrains Rider
+.idea/
+
+# ASP.NET Core Build and Output Folders
+bin/
+obj/
+
+# .NET Core dependency directories
+**/node_modules/
+
+# ASP.NET Core logs
+logs/
+*.log
+
+# User-defined settings
+appsettings.json
+
+# Rider Settings Folder
+.idea/
+
+# Local History
+.idea/.idea/
+
+# Windows Installer
+*.cab
+*.msi
+*.msp
+
+# npm logs
+npm-debug.log*
+
+# Yarn
+.yarn-integrity
+.pnp.js
+
+# Windows Installer
+*.cab
+*.msi
+*.msp
+
+# Mac Files
+.DS_Store
+
+# Sensitive Files
+credentials.json
