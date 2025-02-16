@@ -1,0 +1,13 @@
+// {
+//   "type": "service_account",
+//   "project_id": "userdetailsapp-451106",
+//   "private_key_id": "21950f1cbd85813bb8adedaf42418703ffe5664d",
+//   "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2HT9V5vdxq2IV\nKVMHdnHcSzk2VS6oYfx+fPz2nvbQEZEoj/mVTiu8N7Pwwlyw8dPKTLMHnrM+/c0e\nioUAc5EOXkIcRT2KTPAFeS9E1pbFshNpiLk+6zWukMbw4Hfy2qSRFKAjab+gyvOJ\naMxhBZwCW/Q+Bzdd4BCMvfxqW5c3+b2WBsipEZvtos4HRgnbBsdQMkw9xTNCvK5l\nB+so3JcgaWyL22cAkMVr9ZT2cqcKo+gRicF8IfZr9HDmqtyw7kuinVWDuvNtYWtO\n4HiK131vTWhGK7Hxvg+e/vuRpAtGGfhsI+4rbiXzfK5bTn7bsiQApFzkPPELZdCv\nDDgaWHVhAgMBAAECggEAAMGIE1RNiB9a6y6It1OpNM3QELgoIEQjJoegeY6KRMkr\nT7eQADCUAhQHwrZB1qOzx/6CDPZ+WZmcAn9tvnMA75hjCcMcv7KimabuQcjYMI+n\nPDnvRH/LEUXbDCHT11t5Y6mTKtHlJjtjKRmZCb2RascpVdfwk0YiHAaZ8g25h9oJ\nj4oRBcwZH2MQtYgdHQ8YxLkfx1AAhZV73+5a5c1syBJ5xCyPliQPEOXpm/ccObbU\n1RJWnDubgh3P7mRrq/BkfzbN4POAwnad1M9/lHGxHylk50XKX4oS7auwg8rfv9CV\nkRb98WVSCsYUBaRwoc9ZGnzwDnBU8veL9QmkJzetAQKBgQDaf7CdmklBycS6yewj\nuskNJ2TPnd42IuT6RMmj5w+qqlOh6Pt3JI6heBUbA1W0ZkOX9EXEF1kuLH12kadv\nkXsVDsdokncKkcXcV0pUwBgXMMBQgBPOMPObp9e2oHRYRGyaBN+X++wLHKmkAuYW\n8Z98EoUsuSOi3JbAytZa5MvtIQKBgQDVXuiRhMwGAKwhByz24mzWm+gEjn+voVMH\nd4W8g6bnDaUotktItfra0HVqOBHDGjcrBQaWRXnuonip649n4LrOOo+3tEM5U9XB\n0NAyqq7evrZvaioI2NpHTprjGJPKn12p/UhwgSkBIBMraJd3Urn3Cyt2lwxfF3By\nOsoxbSlAQQKBgQDPU55YzY95l2TPAM7K0G/5xUmJH3k80TuIpkDW/2cEP/5/gb0q\nvkuAt5r/ONjYBrlYtHaGrMj4YUrjeS3xVY/+2Tkp5uCB7PRcMY/cfzHcv2ucdwtT\n+WsOZeLv7ay4HKUYOEuZwXemy5nEgOOnHbqBVml7mGlSHhIF+fIP6U3/QQKBgAGL\nEC+NQFSCyLvsa1zVwmfC9OijhzTj+8/AA42bfieJp7olp2G9PzU58L917Fr245NC\nFAweMIWTU0AXXhAoRfGb5tIzUZEmlBM0yWy0Y1NlGbiwkeFCgEGnxeMCmH8MrAbA\nuDdoF73UV48m0IGibYnl4MiYyxQc/Uk2N6Qn3/aBAoGBAIRjwCJBOPUIBE7vf6x5\nzmNAH4U9rzX/rSo6zC0j+y7fNrZXSni8qwpHCjwKb65Y/mSuXkAHX08VXMjMbLsv\nYtFj5rzmrKeKPWX12u1JthZOgkN5JDeuI1Wt6HjknsKUmAS0PnaGls7l4U1Ff15+\nkIkDsXSaKyFQBZ1TQiNWaybb\n-----END PRIVATE KEY-----\n",
+//   "client_email": "sheetsserviceaccount@userdetailsapp-451106.iam.gserviceaccount.com",
+//   "client_id": "101237702728291235780",
+//   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+//   "token_uri": "https://oauth2.googleapis.com/token",
+//   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+//   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheetsserviceaccount%40userdetailsapp-451106.iam.gserviceaccount.com",
+//   "universe_domain": "googleapis.com"
+// }
